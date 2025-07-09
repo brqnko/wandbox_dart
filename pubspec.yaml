@@ -1,0 +1,16 @@
+name: wandbox_dart
+description: A Dart library for accessing the Wandbox API, allowing you to compile and run code in various languages.
+version: 0.1.0
+homepage: https://github.com/yourusername/wandbox_dart # Replace with your actual repo URL
+repository: https://github.com/yourusername/wandbox_dart # Replace with your actual repo URL
+issue_tracker: https://github.com/yourusername/wandbox_dart/issues # Replace with your actual repo URL
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.1
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.2 # Updated to a more recent version
